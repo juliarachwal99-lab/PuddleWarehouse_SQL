@@ -1,2 +1,2 @@
 # PuddleWarehouse_SQL
-SQL script for PuddleWarehouse, an e-commerce dog product warehouse. Features a 9-table schema with integrity constraints, sample datasets, and analytical queries covering sales, inventory, and logistics.
+This repository contains a relational database schema and initial dataset designed for PuddleWarehouse, an e-commerce warehouse management system specializing in dog products. The project includes full DDL/DML scripts and specific SQL queries simulating real-world business data analysis.
